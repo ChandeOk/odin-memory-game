@@ -1,0 +1,11 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  cursor: pointer;
+}
+
+.card-container h2 {
+  font-size: 2rem;
+}

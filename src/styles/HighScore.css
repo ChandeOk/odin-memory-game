@@ -1,0 +1,5 @@
+.high-score {
+  font-size: 2rem;
+  display: flex;
+  gap: 20px;
+}
